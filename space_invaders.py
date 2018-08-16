@@ -1,7 +1,7 @@
 '''
 Project name: Space Invaders
 Author: Aayush Kurup
-Libraries used: turtle
+Libraries used: turtle, math.sqrt, random.rantint
 Start Date: 15-08-2018
 '''
 
